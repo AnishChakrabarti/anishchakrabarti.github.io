@@ -1,0 +1,2 @@
+get connections doesnt check if the user is not in the network.
+add connections doesnt check to see if both the users are in the network
